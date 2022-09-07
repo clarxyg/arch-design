@@ -1,0 +1,31 @@
+
+
+.header_container {
+    display: flex;
+    justify-content: space-between;
+    padding: 30px;
+    background: #262523;
+    color: #ffff;
+    align-items: center;
+}
+
+.menu {
+    display: flex;
+    gap: 20px;
+    padding-right: 45px;
+    align-items: center;
+}
+
+.button {
+    padding: 10px;
+    border: none;
+    background: #803030;
+    color: #fff;
+    font-weight: bold;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+.button:hover {
+    filter: brightness(1.2);
+}

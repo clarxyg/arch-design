@@ -1,0 +1,33 @@
+
+
+.container_hero {
+    background: #262523;
+    height: 600px;
+    display: flex;
+    align-items: center;
+}
+
+.icon {
+    margin-left: -10px;
+    
+}
+
+.text {
+    color: #fff;
+    font-size: 2.5rem;
+    margin-top: -200px;
+    margin-left: 50px;
+}
+
+.house_hero {
+    position: absolute;
+    margin-top: 700px;
+    margin-left: 250px;
+}
+
+.image {
+    width: 1100px;
+    height: 600px;
+    display: block;
+    border-radius: 5px;
+}
